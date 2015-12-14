@@ -1,0 +1,1492 @@
+Another wikipedia entry that would give you context for lots of my work:
+https://en.wikipedia.org/wiki/Open_source
+
+Open source - Wikipedia, the free encyclopedia
+In production and development, open source as a development model promotes universal access via a free license to a product's design or blueprint, and universal redistribution of that design or blueprint, including subsequent improvements to it by anyone.[1][2] Before the phrase open source became w…
+en.wikipedia.org
+Jeremy Donson
+11/30, 11:17am
+Jeremy Donson
+See:  "You Can't Touch This!"  wink emoticon
+Again:
+HOW TO ENGAGE WOMEN AND MINORITIES??!?!?!?!?!
+^ billion dollar question
+I have ideas, but meanwhile to wlowly set up some simple training and support is within reason
+slowly ^
+anyway - ask whatever
+terms of inquiry are paramount here
+- inquiry frameworks
+ - terminology
+ - diagrams
+Jeremy Donson
+11/30, 11:21am
+Jeremy Donson
+https://www.facebook.com/groups/BigDataProcessing/?ref=bookmarks
+https://www.facebook.com/groups/osswebdevbackend/?ref=bookmarks
+https://www.facebook.com/groups/webdevui/?ref=bookmarks
+
+Big Data Processing
+28 members
+Jeremy Donson
+11/30, 11:21am
+Jeremy Donson
+^ Three groups - each focusing on a diff layer of software....
+LOTS of great posts in there.
+Carl Sylvester
+11/30, 11:30am
+Carl Sylvester
+Let me see if I can remember this without looking in my notes or pulling out a book.
+Systems/ Hardware:
+The actual physical pieces of computer equipment.
+DATA: the code which is run on the machines
+APPS: Software which runs independently of the OS
+Project Management: Organizing toward a common goal
+Training: I have a very small degree of that
+My instructor at my community college had a low opinion of Microsoft, and it kind of rubbed off on me. I got the impression that LINUX, which is basically a platform for running apps (as it was presented to me) rather than a super-complicated and inter-dependent collection of code like Windows, is a better and less resource using OS. 
+I don't have G-Mail. They would not respond to my problems with their interface, and I was locked out of their system by a looping password problem. I gave up on them. I can't even comment on Utube, as if that matters. I went to their link to follow the instructions for rectifying the problem and ended up in another loop.
+I have Yahoo Mail, but I don't use it much. The bulk of my social life is on Facebook (sad, but true).
+I get what you are saying about the trends, and about the progress of technology reducing the cost and the physical size. I read about this stuff all the time, but I don't personally have any of it due to monetary factors. I can't afford new toys.
+I have and/or have used  open source software. It's the only kind I can afford! If I am looking for some, "Open Source" or "Freeware" are the first things I put in the search. It's not like this is entirely foreign to me.
+I'll check out those links and get back to you later today. I have a few things to do.
+Jeremy Donson
+11/30, 11:32am
+Jeremy Donson
+yeah - distinguish data from process is fundamental software stuff
+yes - open source is better, but learning curve is MUCH higher
+Skype works.
+Trends across tech layers is a great way to start.
+December 1
+Jeremy Donson
+12/1, 7:15am
+Jeremy Donson
+Some basic terms to get you anchored:
+hardware
+software
+components
+data
+process
+user interface
+client-server
+systems
+roles
+WAN
+LAN
+IP Stack
+Web services
+operating system : languages
+frameworks : api's
+And I can setya up on windows with all the equivalent FREE tools that I run on my Mac.
+That list is sweet....
+And diagrams will assist GREATLY with terminology.
+Jeremy Donson
+12/1, 7:33am
+Jeremy Donson
+Four in particular:
+1.  physical system hardware schematics
+2.  physical network hardware schematics
+3.  logical data models  (ERD)
+4.  logical process models (DFD)
+I renew my pleas:
+Sign up for gmail and cacoo.com?
+Glad to assist or find workarounds.
+Other key diagrams to consider are workflow diagrams, so that teams can be analyzed for how to best collaborate and produce at high-quality on time.
+I started doing workflow diagrams for color printing prepress in the 1990's.
+Software workflows are similar in MANY ways, yet team outputs are no longer films for the printing press.
+Now outputs are code, and quality checkpoints are both visual and *functional*.
+
+Cacoo - Your ideas. Our canvas.
+User-friendly and versatile. A free online diagram tool for creating sitemaps, flowcharts, mind maps, wireframes, mockups, UML models, and etc.
+cacoo.com
+Jeremy Donson
+12/1, 7:33am
+Jeremy Donson
+Next thing to learn is about stacks....
+Jeremy Donson
+12/1, 7:37am
+Jeremy Donson
+dev stacks, where we combine:
+1.  networked operating system
+2.  data services
+3.  web services
+4.  programing languages
+5.  standardized UI across all browsers
+An example of an open source dev stack is:
+OS - Linux
+Web Server - Apache
+DB - MySQL
+Dev Language - PHP
+This stack is referred to as "LAMP".
+Facebook runs on the LAMP stack. smile emoticon
+Another dev stack could be
+java/oracle, instead of php/mysql.
+Yet another (proprietary) stack could be windows, .net, sqlserver, IIS.
+Jeremy Donson
+12/1, 7:37am
+Jeremy Donson
+Another open source stack: ruby / mongodb
+(Dev stacks always require a dev language and a data storage system.)
+k, that was enough geeking onya for today
+all this gets easier when we are sharing cacoo diagrams
+Jeremy Donson
+12/1, 8:22am
+Jeremy Donson
+one more simple and POWERFUL visual diagramming scheme that will aid with the vocabulary:
+Venn Diagrams
+December 1
+Jeremy Donson
+12/1, 2:10pm
+Jeremy Donson
+Jeremy Donson
+12/1, 2:10pm
+Jeremy Donson
+smile emoticon
+Jeremy Donson
+12/1, 2:28pm
+Jeremy Donson
+trends per layer is a fun way to keep it simple and organized
+LAYERS x TRENDS
+----------------------------
+UI / UX
+PROCESSES
+DATA
+SYSTEMS
+HARDWARE
+also, trends can always be broken into:
+ - legacy
+ - current
+ - emerging
+(all moving targets)
+word? grin emoticon
+December 2
+Jeremy Donson
+12/2, 1:05pm
+Jeremy Donson
+I am doing some nice indoor gardening setups this fall.
+strawberries of many colors
+Carl Sylvester
+12/2, 1:58pm
+Carl Sylvester
+Cool if you have a place to do that sort of thing.
+My continuation the main topic:
+Sorry about the time lag. Life, you know.
+I looked at the links to the group pages you posted, and I must admit it looks like fun stuff, HOWEVER, if I am going to do anything on the levels suggested by these group posts, I am going to have to start from reviewing the C++ class I had, working it to its completion (the class did not cover the whole book) and probably going back further than that as far as programming goes. There was considerable attention also paid to the previous version of C programming which was addressed in additional material. I think I have all of this stuff in a file in my other external drive, so I could reference it as well. I also have an old book (1992) on Visual Basic for MS-DOS which was given to me after being found at a garage sale. I suspect there may be some valuable background information there if I could find a freeware program to use to play with it, as well as finding a program to get around this problem I ran into:
+When I had the C++ class, I could not get past a problem with the writer/compiler software we were supposed to use not wanting to work on my machine, despite copying EXACTLY the sample (and VERY simple) programming provided in the book which worked fine on the machines at school (they had VISTA, I had W7, which had just been released, same machine I am using now, if that makes a difference. I even tried “telling” the computer to run the program in XP emulation mode through one of the properties dialog boxes.). It would kick back error messages which I had no idea how to correct, and providing printouts of pages with the error messages to the instructor resulted in “You have to bring your computer here for me to figure it out”, which of course was impractical as I did not have suitable roll-around case in which to package and transport it. Imagine my frustration. I actually LIKED the idea of being able to write, and found the class stimulating up to that point, but without being able to “play” with it at home there was no way I could keep up with the class work.
+If you are offering to help me, more or less ”tutor” me in this, I need a C++ writer/ compiler that will run on my machine so that I can start with what will come back to me easily, then work forward/ backward from that point. Understanding the origins, building blocks so-to-speak, is one of the most important parts of learning. There is no point in trying to understand without being able to DO.
+I could benefit from basic system hierarchy charts (windows, linux, java, etc, which may help me with memorizing file pathways in said writing. There is SO much I need to learn here, it will take a while.
+I signed up with Cacoo, at the “free” level. Could not find official contact info, so must assume it’s my name.
+I got the Gmail to work; it has changed since the problems I encountered.
+carlsylvester59@gmail.com
+Another thought: Code, as you know, is written in levels (as I saw it indicated by the indentation of the line), and I was able to visualize how the machine responded accordingly. I think I still do this subconsciously when I look at an address bar. I have recently been using the address bar to change searches on web pages, and I have no idea why I haven’t been doing this all along…lol!
+Jeremy Donson
+12/2, 2:35pm
+Jeremy Donson
+i have small well-lit nyc apartment
+Jeremy Donson
+12/2, 2:59pm
+Jeremy Donson
+that gmail address that you provided did not work for me
+The structure of the URL in terms of its components is interesting!
+Jeremy Donson
+12/2, 3:48pm
+Jeremy Donson
+yes - appending ?var=val&var2=val2 to the url is adding GET parameters and passing them into the target url
+https://en.wikipedia.org/wiki/Query_string
+Jeremy Donson
+12/2, 4:04pm
+Jeremy Donson
+email me:  jjdonson@gmail.com ??
+December 3
+Jeremy Donson
+12/3, 6:44am
+Jeremy Donson
+Thx!
+If you want to learn python, lemme know.
+good lang!
+Jeremy Donson
+12/3, 7:34am
+Jeremy Donson
+I have a GREAT idea for a web app:
+clandestined bartering services
+This grows out of my open source sensibilities and also is highly influenced by the idea of the "guild".
+https://en.wikipedia.org/wiki/Guild
+Open Source Technology learning/training needs to ascribe to a guild mentality.
+And yeah, five types of diagrams will cover a GREAT DEAL of ground:
+1.  system hardware schematics
+2.  network hardware schematics
+3.  process flow diagrams
+4.  data models
+5.  workflows
+Jeremy Donson
+12/3, 7:37am
+Jeremy Donson
+UI Layer Group:
+https://www.facebook.com/groups/webdevui/?ref=bookmarks
+WebApp Layer Group:
+https://www.facebook.com/groups/osswebdevbackend/?ref=bookmarks
+Data Layer Group:
+https://www.facebook.com/groups/BigDataProcessing/?ref=bookmarks
+
+OSS Web UI Team
+144 members
+Jeremy Donson
+12/3, 7:38am
+Jeremy Donson
+each group tends to focus on certain emerging trends, etc
+You are WAY up to the task here, and just put the burden of clarity on me?
+Jeremy Donson
+12/3, 7:41am
+Jeremy Donson
+Some free tools that we all use, regardless of what OS we run:
+1.  gmail, google docs, etc
+2.  browsers + plug-ins *
+3.  git + github.com *
+4.  file transfer tools *
+5.  ASCII text editors *
+6.  screen shot tools *
+7.  pixlr.com
+8.  cacoo.com
+9.  MAMP *
+* free tools to download and install
+Jeremy Donson
+12/3, 7:42am
+Jeremy Donson
+some of those are free web site services
+December 3
+Jeremy Donson
+12/3, 3:09pm
+Jeremy Donson
+smile emoticon
+Let me know if you have interests into - systems?  data?  scripting?  tech project management?
+December 4
+Carl Sylvester
+12/4, 10:02am
+Carl Sylvester
+I’ll start by trying to get the C++ thing from my classes to work (I found the download link to the same program I was having trouble with; I’ll try it again, without prejudice). It will also involve going back through the course material for software which was covered in the classes I had and following the rest of the material in the books which was not covered in the classes through to their ends. It has been 7 years since those classes, and the only things I have used WORD or EXCEL for since have been writing blog posts and doing shopping estimates for projects, respectively. When I get to the point of being able to write programs with basic nested functions and link them to a business page I construct with my WORD software or an EXCEL spreadsheet, for example, I will then have the confidence and general understanding which I need to take it further. This could take a while. 
+When I used to repair cars for people and they would ask me how I learned, I would tell them: “I went to the technical program at KCC (our local community college) for two years, got out of that with a 3.71 GPA (Wow, smart, whoopee!), then I started to learn how to fix cars.” It’s one thing to know that a thing works and know its capabilities. Knowing how to make a thing work is quite different.
+As for the “Burden of clarity” you mention, it would be nice to have a person I can ask a question every now and then, but I wouldn’t wish to put a responsibility on you. Your profile says you are an engineer, and I know from experience that engineers are the people to ask if you want good answers. 
+I should be able to understand the reference material you have posted as my education progresses.
+BTW: The Universal Resource Locator is just a file path, as a file path is just a set of instructions. CP101, day one. But you see this kind of knowledge is like knowing where the gas pedal is located.
+Jeremy Donson
+12/4, 10:02am
+Jeremy Donson
+Well, Sir.
+C++ is TOUGH
+as is Java
+Python or
+node
+or ruby....
+not as tough
+and quite capable
+Note that these newer languages are INTERPRETED.
+Your questions are great.
+You can install cygwin on windows and have a linux-like experience
+You can also install linux on thumb drives to get used to it without messing with windows on internal boot disk.
+The Windows => Linux trend is strong.
+I think we ought to learn the (python) Natural Language Toolkit (NLTK).
+It is badass.
+If you are set on C++, then the best approach would be to learn to port windows server-side C and C++ apps to linux.
+I can guide ya there a bit.
+Jeremy Donson
+12/4, 11:04am
+Jeremy Donson
+Why C++ in particular?
+What criteria occurs to you in choosing a language?
+Regardless of what language you choose to use, the way to go is to learn git and github so you can share and distribute free code.
+https://openhatch.org/missions/windows-setup/install-git-bash
+no $
+I am chewing my way thru a book about a python tool called ansible.
+Most people will not chew thru cryptic books to learn stuff.  This is why teachers are needed in this area, most of all.
+There are plenty of engineers.
+Not enough of them are good educators, imho.
+you are very interdisciplinary by nature, so that makes discussing this with you rather easy, by comparison
+And you are clearly NOT scared of hardware.
+smile emoticon
+Carl Sylvester
+12/4, 11:49am
+Carl Sylvester
+C++ didn't seem hard, it just seemed like something to learn. The problems I ran into had nothing to do with the class itself. In light of your comment it seems to me that the reason they chose to teach C++ in CP101 was BECAUSE it was harder, therefore subsequent languages would be easier. A lot of C was also part of it, as I mentioned earlier. Besides, I have already been through the fist couple pounds of the book, so that would be review! 
+I have just found a different compiler to try. An emulated version of TurboC++ for W7 64bit on SourceForge.
+I'll get around to all of this in due time. The mental state required is forming as we discuss. I really do think I could benefit from doing the "harder" thing first.
+"interdisciplinary by nature" Never heard it put quite that way, but true. I have always had to learn in order to do the things I have done, and I have touched on a few different and often interrelated disciplines just for the sake of not screwing things up LOL!
+Jeremy Donson
+12/4, 11:55am
+Jeremy Donson
+I try to only break a maximum of one thing at a time.  smile emoticon
+Every language has its place.
+When tools already exist that are sweet, pays to use that codebase!
+Carl Sylvester
+12/4, 12:22pm
+Carl Sylvester
+Found this one that has a GUI:
+https://git-for-windows.github.io/
+As far as that goes we did command line stuff in class, but like I said, it was not much, and it's been a long time.
+Here's another metaphor: I won't plug in a heater without first checking the branch circuit to make sure it won't overload. Ignorance invites trouble.
+
+Git for Windows
+We bring the awesome Git VCS to Windows
+git-for-windows.github.io
+Jeremy Donson
+12/4, 12:23pm
+Jeremy Donson
+yes - but gui sucks
+gitbash gives you linux tools on dos command line
+git + bash
+I just sent ya a link to video that will walk ya through git and github basics.
+to your gmail
+Carl Sylvester
+12/4, 2:47pm
+Carl Sylvester
+They deleted that account. I'm done with them unless they send me a phone number to talk to a person, which probably means I'm done with them. Again.
+Post it here.
+Jeremy Donson
+12/4, 2:50pm
+Jeremy Donson
+.
+yeah - no one to pay or talk to there
+https://drive.google.com/file/d/0ByT4mjHpJIL8bnlWVlJUV2NUX3c/view?usp=sharing
+might need quicktime player for windows to view...
+google: quicktime for windows
+That is best video I ever saw to decribe how people share code (regardless of language) using git and github.com.
+Jeremy Donson
+12/4, 3:05pm
+Jeremy Donson
+Two reasons:
+1.  makes learning code a social experience
+2.  provides LOTS of public code projects in EVERY language where people are already collaborating
+Carl Sylvester
+12/4, 3:50pm
+Carl Sylvester
+That runs on Chrome. Starts right off with terms I don't recognize. I did notice something about losing stuff on backup when overwriting, which made no sense to me because I would make a COPY, and stick it in one of my external drives (I have redundancy), as well as a separate file location on this machine. My downloader wouldn't grab it, so I put the link in the file I started on this stuff. I can also scroll back through this and get terms to check out.
+As I spend time on the web going after seemingly endless links looking up terms and such, it should eventually coalesce into some usable knowledge up here (pointing at head) where I keep all the other stuff I've learned.
+Which LINUX works on a thumb drive? I have an 8 and a 4G. Have some music on one of those, but I could put that on a disc.
+Jeremy Donson
+12/4, 3:51pm
+Jeremy Donson
+http://www.ubuntu.com/download/desktop/create-a-usb-stick-on-windows
+
+How to create a bootable USB stick on Windows | Ubuntu
+Ubuntu is an open source software platform that runs everywhere from the smartphone, the tablet and the PC to the server and the cloud.
+ubuntu.com
+Jeremy Donson
+12/4, 3:51pm
+Jeremy Donson
+ubuntu is most popular linux
+start with smallest distribs that ya can - but 4GB is plentyplenty
+then need to set usb ports as bootable
+Carl Sylvester
+12/4, 3:53pm
+Carl Sylvester
+I've seen that was a good one.
+Would I do that from boot menu in setup?
+Jeremy Donson
+12/4, 3:53pm
+Jeremy Donson
+in bios, storage bus boot order can be set as desired
+usb, cd, internal hd
+^ suggested?
+meaning, if no bootable usb or cd, then boot from windows on internal hard drive
+"boot seek order"
+word?
+seeks, and if finds system, executes it as first program that runs (definition of 'operating system')
+Carl Sylvester
+12/4, 4:18pm
+Carl Sylvester
+OK, So just for shits and giggles here:
+Put UBUNTU on cleared 4G
+Notice drive letter assigned by machine in "computer"
+Restart and hit F12, bring up boot order
+Change priority to assigned letter or whatever the machine calls the thumb drive (Toshiba#####)
+Restart will boot UBUNTU if it's going to work, or "C" if thumb drive not present and "C" second on list.
+Sound right?
+Carl Sylvester
+12/4, 5:25pm
+Carl Sylvester
+AAAHHHHHH research. Turns out I need a converter and then to download the ISO file to run on it to put it on the thumb drive.
+Waiting for download.
+December 5
+Jeremy Donson
+12/5, 5:17am
+Jeremy Donson
+yes, there is a windows installer where you install ubuntu distribution images into thumb drives, to then boot them
+smallest kernel+libs and 
+some core utilities set would be nice min linux thumb...
+Tuesday
+Jeremy Donson
+12/8, 7:56am
+Jeremy Donson
+So, there are three linux certifications to consider:
+1.  systems administrator
+2.  network engineer
+3.  developer
+I am systems+data engineer.
+And I support developers as a dev ops engineer.
+Jeremy Donson
+12/8, 7:57am
+Jeremy Donson
+cert_prep_guide_160915.pdf
+Jeremy Donson
+12/8, 7:57am
+Jeremy Donson
+Lots of the tasks to learn are listed in there....
+We ought to help windows folks get there, including yourself?
+I have a domain (urbanspectra.com) with plenty of space for hosting.
+Jeremy Donson
+12/8, 8:07am
+Jeremy Donson
+Even microsoft is selling linux these days, hoping to move people to MSFT's azure cloud.
+I recommend that you install gitbash and learn some linux shell commands.
+Then see if we can set you up with bootable linux from thumb....
+?
+Jeremy Donson
+12/8, 8:23am
+Jeremy Donson
+One good place to start is just to review stages of POST => boot seek => boot...
+Four main components to any system hardware schematic:
+1.  chip
+2.  RAM
+3.  NIC - "i/o" @ network
+4.  DISK - "i/o" @ local
+file types:
+ - ascii - scripts, configs
+ - binary:  drivers, compiled executables
+Oh, one serious tool REQUIRED that is free, is an ascii text editor for scripting/coding, etc
+https://notepad-plus-plus.org/download/v6.8.7.html
+notepad sux ass
+notepad++ works fine
+good morning Sir
+The biggest demand for linux training regards teeming hordes of windows users, and that brings with it a set of conundrums that are quite resolvable...  in an iterative fashion.
+I am meanwhile transcribing python scripts called 'playbooks' to learn how they are written.
+boring and also very instructive
+just typing and testing proven code is plenty of work - no need to pioneer unless absolutely necessary
+tools work fine - the terms of training are a .. bit raw?  smile emoticon
+Note that two crowds left THEMSELVES out of the open source movement:
+1.  "Adobe Creative Suite crowd"
+2.  "MSFT Windows/.NET crowd"
+#1 regards content creation tools
+#2 regards operating systems and dev libs
+the exodus from windows to linux or os x is no secret
+some people actually do go back the other way, but rarely
+some like hybrid environments
+But all can access open source tools.
+MSFT crowd is an easier sell, as they already know that command-line is the way to go.
+Adobe folks prefer not to look at code if at all possible, and until lately, they were right!
+grin emoticon
+However, now that browsers are truly more convergent in terms of support for css3 and other emerging web file formats.....
+time for the adobe crowd to learn css3 and html5
+"trends"...
+There are many roles to consider in two parallel workflows:
+1.  content creation, approval, publishing
+2.  code creation, testing, deployments
+In both cases, some preemptive qa is rather crucial... as it is for print when we want to print 10,000 but need prior certainty that ALL is perfect.
+I am now at a stage where I can speak to expertise in both engineering and training.
+Linux training is due for an upgrade. smile emoticon
+And getting windows folks to penetrate the oss world just needs some road-paving.
+LOTS of great coders and engineers out there who cannot use open source code and code solo, no sense that github even exists.
+That will not do.
+"siloed" = bad for biz
+Jeremy Donson
+12/8, 8:41am
+Jeremy Donson
+This diagram helps me think about this python dev ops tool...  so that I can look at dev stacks across environments...
+Jeremy Donson
+12/8, 8:41am
+Jeremy Donson
+That and hardware schematic are nice start...
+Carl Sylvester
+12/8, 8:42am
+Carl Sylvester
+I have the converted UBUNTU on the 4g.
+I also have a BOOK from my 2007 class which has LINUX basics. It's for FEDORA, but aren't the command line functions still the same on the basic level? I realize there are lots of minor differences to be expected in subsequent versions.
+I was told in school that LINUX is less prone to the common problems windows has from viruses and arbitrary update bullshit that monopolizes processor and memory because of its structure. I think if I can familiarize myself with the structure FIRST I will be fine. I do better with a frame of reference.
+Pardon me, I'm suffering from brain lag this morning
+Jeremy Donson
+12/8, 8:44am
+Jeremy Donson
+An example of some hardware schematic diagramming....
+Jeremy Donson
+12/8, 8:44am
+Jeremy Donson
+could be for any intel platform...
+You are doing fine.
+I am immersing you.
+You will bounce back.  smile emoticon
+Going with latest STABLE versions and paring them down to minimal distributions is great start...
+ubuntu is good first choice
+that has same kernel as all debian linux distributions
+stop me if I make no sense!  grin emoticon
+next linux I would suggest is centOS
+that emulates RedHat Linux, but costs nada
+Ubuntu = dev-centric linux
+centOS = Engineering-cetric linux
+ie, faster releases vs more stable
+both trying to do EXACTLY the same thing, as do ALL operating systems
+Three builds:
+1.  minimal netadmin
+2.  minimal dev
+3.  minimal user
+And update them every three to six months.
+On OS X I am lucky because we have something called homebrew that builds and installs all kinds of linux binaries, making OSX VERY MUCH like Linux (with limitations).
+But between virtualBox, gitbash, and thumb drives....
+you will conquer this bitch!
+Glad to help where I can.
+Carl Sylvester
+12/8, 8:49am
+Carl Sylvester
+Acronyms and initialisms are meaning less to the person that does not know what they stand for or understand the thing they stand for. It creates a default state of mental overload. I realize there is lot of shit to learn here. Baby steps.
+Jeremy Donson
+12/8, 8:49am
+Jeremy Donson
+sure - POST = power on self test = BEEP!
+the details get redundant very quickly
+goal: penetrate linux and open source tools
+many ways to skin that cat from windows side
+Jeremy Donson
+12/8, 8:51am
+Jeremy Donson
+https://www.virtualbox.org/wiki/Downloads
+
+Downloads – Oracle VM VirtualBox
+to verify the integrity of downloaded packages.The SHA256 checksums should be favored as the MD5 algorithm must be treated as insecure!
+virtualbox.org
+Jeremy Donson
+12/8, 8:51am
+Jeremy Donson
+https://openhatch.org/missions/windows-setup/install-git-bash
+OpenHatch - Missions: Finding the command line on Windows: Install Git Bash
+OpenHatch, the open source involvement engine.
+openhatch.org
+Jeremy Donson
+12/8, 8:52am
+Jeremy Donson
+http://www.omgubuntu.co.uk/2015/05/xubuntu-core-new-minimal-iso-download
+^ documenting my blabber
+no rush at all - seriously
+Carl Sylvester
+12/8, 8:56am
+Carl Sylvester
+OK SIMPLE question:
+When I boot this LINUX will I still have access to my external drives? I seems to me I would, as they are not part of windows. If I can open multiple windows with reference materials stored on said drives, and access the web WHILE practicing with the command line functions, (run them independently?) I would be off to a good start.
+Jeremy Donson
+12/8, 8:56am
+Jeremy Donson
+well done
+articulating your own questions is very helpful to me
+Carl Sylvester
+12/8, 8:57am
+Carl Sylvester
+I try, man, but like I said I'm kind of foggy this morning.
+Jeremy Donson
+12/8, 8:57am
+Jeremy Donson
+no worries
+let's dissect that into a few questions?
+When you boot from external thumb drive, we initially want your learning to be ZERO threat to your windows system.
+Naturally, this keeps them separated for now while integrating Linux and windows would be a nice transition.
+You can always download virtualbox and run that Windows app, then install linux images into the VIRTUALIZED hosts that this provides you.
+That means you are running Windows natively and linux on vm's locally.
+So, three paths are offered for first runs of linux:
+1.  gitbash on windows for bash and git (easy)
+2.  virtualbox on windows with vm's running linux
+3.  booting to linux from external thumb drive
+This way windows folks who get stuck have alternatives.
+(voice of experience)
+Also VERY important for first linux runs to be "non-degradative",
+where windows is not hurt while new tools are considered.
+Naturally, I would be happier to just send you a Mac Mini desktop over time and show you how to no longer suffer from windows once and for all, but this is actually opportunity and crisis, as windows users need these roads paved.
+And, yes,
+linux can be set to mount windows drives
+in a file called /etc/fstab
+Jeremy Donson
+12/8, 9:04am
+Jeremy Donson
+https://en.wikipedia.org/wiki/Fstab
+fstab - Wikipedia, the free encyclopedia
+The fstab (or file systems table) file is a system configuration file commonly found at /etc/fstab on Unix and Unix-like computer systems. In Linux it is part of the util-linux package. The fstab file typically lists all available disk partitions and other types of file systems and data sources that…
+en.wikipedia.org
+Jeremy Donson
+12/8, 9:05am
+Jeremy Donson
+I will glad review any and all.
+You have my patience and curiosity.  np
+Review those diagrams.  They are golden.
+Jeremy Donson
+12/8, 9:29am
+Jeremy Donson
+systems --< components
+"systems have many components"
+Carl Sylvester
+12/8, 9:38am
+Carl Sylvester
+Will these be of use, or have some of them been superseded? If they are good, I will PRINT them.
+https://en.wikipedia.org/wiki/List_of_Unix_commands
+List of Unix commands - Wikipedia, the free encyclopedia
+This is a list of Unix commands as specified by IEEE Std 1003.1-2008, which is part of the Single UNIX Specification (SUS). These commands can be found on Unix operating systems and most Unix-like operating systems.
+en.wikipedia.org
+Jeremy Donson
+12/8, 9:40am
+Jeremy Donson
+I would gather linux commands into small groups....
+yes, those are a good start
+but sequence of commands to learn is a GREAT educational question
+learning a little bash and vi is wise
+then there are user commands and root commands
+that is one very solid primary distinction
+root commands require admin privs
+user commands are available to all accounts on linux
+some nice linux hardware commands:
+$ df -h # mounted disk filesystems
+$ free  # memory
+$ ifconfig  # network cards
+$ ps  # processes
+^ those are used by admins who set up hardware and accounts for all users
+**short lists** of often-used admin and user linux commands would be wise start to stay effective
+fdisk is key tool for managing physical disks and partition maps
+but that can fuck up windows, so major rule is to NOT give noobz enough to hang themselves
+* non-degradative *
+https://help.ubuntu.com/community/In...tion/MinimalCD
+^ not large
+smaller is easier to learn about, by definition
+less code always wins
+truly, someone ought to have all of windows and data backed up first, else we could be giving them enough rope to hang themselves
+staying non-degradative in our approaches for first runs makes that MUCH less of a risk
+and builds trust in noobs, which is KEY
+Carl Sylvester
+12/8, 10:20am
+Carl Sylvester
+I need to clean out my 500G and copy stuff to my 1T anyway. Would like to have ANOTHER backup. Anyway, if I do that I would not be so worried about having to reformat the 500G in a worse-case scenario. Of course, I would also back up selected files that are on the main machine as well.
+When running from the thumb drive is there really a risk of screwing up the file system in another external drive or the main memory by allowing the system to access it/them? I suppose I could stick some random files on the 8G thumb.
+Jeremy Donson
+12/8, 10:21am
+Jeremy Donson
+Well, there is what I will trust you with, and what I would trust average windows user with....
+Backup is a great preliminary topic.
+If all set to restore from backups, then zero impact is again achieved.
+Carl Sylvester
+12/8, 10:22am
+Carl Sylvester
+I don't keep much on my internal memory.
+Jeremy Donson
+12/8, 10:22am
+Jeremy Donson
+For my own laptops, I run a local linux file server.
+There I can mount thru wifi and username + password the shared drive.
+Then all devices can securely read and write on my private LAN.
+And then, to backup, I only need to backup from that central point of shared storage.
+All other data across devices is considered expendable.
+Each device has hardware test, partition, format, install os tools....
+and each device can then reconnect to central storage after operating system and wifi connection restored
+This way I can add more devices and not go bonkers.
+Carl Sylvester
+12/8, 10:25am
+Carl Sylvester
+I leave my 1T unplugged most of the time.
+Jeremy Donson
+12/8, 10:26am
+Jeremy Donson
+I have external bootable drives (USB+ FireWire).
+I have disk images and app installers.
+I have data backups from central spot weekly.
+Always keep prior week as well.
+The external bootable drives are for booting systems externally.
+FYI:  Linux file server is only accessed via wifi card, so needs no monitor.
+"headless"
+LAN security is easy
+access only by explicit *inclusion*
+WAN security is much trickier
+but modern tools like puppet and ansible can manage routers and servers alike these days
+initially, we will only talk LAN, so security issues are simplest
+key to learning is to start with simplest setups and iteratively add complexity thingies smile emoticon
+LAN first, local systems stuff first
+Carl Sylvester
+12/8, 10:31am
+Carl Sylvester
+My Local Access Network consists of my computer and two external drives. LOL!
+Jeremy Donson
+12/8, 10:32am
+Jeremy Donson
+and your router
+perhaps your smartphone?
+tablets?
+computer likely has physical ethernet card  and wifi network hardware?
+network hardware to learn:
+nics
+hubs
+bridges
+routers
+best disks = seagate
+best nics = solarflare
+https://support.solarflare.com/index.php?view=categories&id=1945&option=com_cognidox
+badass local and network io hardware for max performance
+like emoticon
+Carl Sylvester
+12/8, 10:41am
+Carl Sylvester
+Yeah, there is the AT&T modem.
+No cell phone.
+No extras in machine that I know of. Nothing comes up in devices.
+Stuck with 2008 DELL Inspiron 2.2 Ghtz 4G RAM
+No money for "fancy" stuff LOL, but would still like to learn to write. learning LINUX sees like a good place to start, and the C++ thing.
+Jeremy Donson
+12/8, 10:45am
+Jeremy Donson
+no worries
+yes to C / C++
+and we can find a TON of work porting server apps to Linux from windows
+seriously - sweet target for the foreseeable future
+what you have is plenty of hardware
+for web dev, install this:
+Jeremy Donson
+12/8, 10:46am
+Jeremy Donson
+https://www.mamp.info/en/downloads/
+MAMP & MAMP PRO - Downloads
+This download package for Mac OS X contains the free MAMP and a free 14-day trial of MAMP PRO. MAMP can be used stand-alone without MAMP PRO.
+mamp.info
+Jeremy Donson
+12/8, 10:47am
+Jeremy Donson
+http://download.virtualbox.org/virtualbox/5.0.10/VirtualBox-5.0.10-104061-Win.exe
+download.virtualbox.org
+download.virtualbox.org
+Jeremy Donson
+12/8, 10:47am
+Jeremy Donson
+^ to run linux locally in a vm
+that gets you started with dev and with systems
+I also recommend gitbash, cuz it gives you linux-like command line on windows with bash + git
+As these choices piece together, you will find paths of least resistance.
+And favoring approaches that avoid windows impact for first attempts is definitely best.
+and to REALLY learn linux development with c/c++, we would need to start to learn the GCC compiler
+Jeremy Donson
+12/8, 10:55am
+Jeremy Donson
+https://gcc.gnu.org/
+
+GCC, the GNU Compiler Collection - GNU Project - Free Software Foundation (FSF)
+The GNU Compiler Collection includes front ends for C, C++, Objective-C, Fortran, Java, Ada, and Go, as well as libraries for these languages (libstdc++, libgcj,...). GCC was originally written as the compiler for the GNU operating system. The GNU system was developed to be 100% free software, free…
+gcc.gnu.org
+Carl Sylvester
+12/8, 10:55am
+Carl Sylvester
+I do have the 15 year old DEll laptop, but like I said before, it takes around ten minutes to boot (something in the BIOS, tried reloading all of that, drivers,etc.)
+I can't "Buy Now" and trial versions, well...........
+HEY um.... don't give me links to automatic downloads.
+Jeremy Donson
+12/8, 10:56am
+Jeremy Donson
+k, sorry
+nah - too old is too old
+however, you will find that mini linux runs like a demon on that small portion of hardware
+but if it has bios issues, then that sux
+old hardware is often not worth the sweat
+Nice to make the most of what can be useful, and also good to avoid unstable or painfully slow hardware.
+Jeremy Donson
+12/8, 11:11am
+Jeremy Donson
+you could provide windows user remote linux build, debug, test, deploy2Linux tools  devil emoticon
+Jeremy Donson
+12/8, 11:15am
+Jeremy Donson
+Here is a nice set of intro scripts for C++, but it is worth considering why most oss server apps on linux are written in C, and NOT C++.
+cpp_scripts.zip
+Jeremy Donson
+12/8, 11:15am
+Jeremy Donson
+http://www.larryullman.com/books/cpp-programming-visual-quickstart-guide/
+1.  C++ is MOSTLY C
+2.  The open source crowd tends to prefer C to C++ so that it can easily be reworked as needed, and not NEED to support certain object models.
+3.  The biggest change between C and C++ is strings are objects
+This is why the following tools are written in C:
+git
+apache
+linux
+etc
+now, most LOCAL tools we double-click on to execute are C++ apps....
+but server-side OSS code tends to prefer C
+the criteria behind that is worth sorting out over time
+and while we struggle with COMPILED languages (C/C++/Java)....
+we also ought to work with at least one interpreted language...
+like bash
+php
+python
+node.js
+ruby
+Windows users like to put powershell against bash, but there is no contest.
+get to bash, gcc, php
+Carl Sylvester
+12/8, 11:21am
+Carl Sylvester
+The Windows music player works, and it's the earlier version before they took the equalizer out. It sits on the rack above my mixer, and I have an external disc drive hooked up to it for playing stuff into the mixer and from there into my Yamaha. Use a thumb too.
+I found the virtualbox, but could not find system requirements. It looks cool, but I think I will just try running from the thumb first. KISS, well to a point, anyway.
+In my class, I noticed differences in the style of writing (syntax?) between the two, C++ seemed easier to me.
+Compiled/interpreted? distinction?
+Jeremy Donson
+12/8, 11:22am
+Jeremy Donson
+the virtualbox windows app runs virtual machines like any windows app
+you can install linux onto those local vms
+C++ harder
+interpreted workflow is MUCH faster:
+edit text
+save text
+version text
+execute text
+debug execution errors
+compiled workflow produces faster apps, but much slower workflow:
+edit text
+save text
+version text
+build binary
+debug build
+execute binary
+debug execution errors
+most people prefer interpreted languages for their easier workflow and more humane syntax
+php is a great example of interpreted and VERY web-savvy
+also supports objects
+learning about which languages fit where and why is cool stuff - from systems perspective that becomes generic - all languages are trying to do the same thing (as are all operating systems)
+notepad++
+gitbash
+MAMP for windows
+vbox
+^ great foundational tools to penetrate oss and linux without disturbing windows much
+good local backup and non-disruptive tools are likely the kindest way to get people started without adverse impact
+MANY windows folks who may be GREAT sys admins or great coders are totally lost with this free great stuff.
+notepad++
+gitbash
+MAMP for windows
+vbox
++ cacoo.com for diagrams
+^ solid start
+imho, EVERY windows user ought to find traction there
+This is another cool option: Cygwin
+This is where we make windows as linux-y as possible:
+http://preshing.com/20141108/how-to-install-the-latest-gcc-on-windows/
+Nice thing about that is we get integrated win-linux experience without fuckin with windows.
+Jeremy Donson
+12/8, 11:47am
+Jeremy Donson
+I RECOMMEND THE FOLLOWING FRAMEWORK:
+- systems (local)
+- engineering (network)
+- developer (new tools)
+We can do all 3 in parallel, to some degree
+also, building linux kernels is a GREAT place to start
+the smaller the better!
+note that git was the tool that linus torwalds built (in C) to manage all versioning of the linux kernel source code (which is also in C)
+admin scripts and dev code files are managed with git, as a general rule, regardless of system or language
+MSFT folks use visual studio, .net, visual source safe, etc.
+Those are on their way OUT.
+likely we ought to be aware of the simplicity afforded by the msft dev tools, and show how the same can be achieved on linux using C
+porting LOCAL C++ apps to OSX from windows makes sense to me
+porting server-side C apps from windows to linux also makes GREAT sense to me
+in that last case, the demand is massive and the supply of skilled devs is VERY low
+again glad to repeat or rephrase any and all
+slow and steady wins the race <nods>
+already you are more immersed than you realize
+your questions will slowly improve as the terminology yields
+and we can keep the unix command list short
+one that is important is $ man {command}
+$ man {command}
+$ which {command}
+ls cd grep apt-get cat touch vi
+those are also important
+Jeremy Donson
+12/8, 12:05pm
+Jeremy Donson
+more less git
+fewer commands to learn at first is best
+several for systems hardware
+several for basic user stuff
+Carl Sylvester
+12/8, 1:01pm
+Carl Sylvester
+This is the book I have. It really does start from ground zero, and has lists of terms, etc. Still looking for C book I can download.
+http://www.amazon.com/gp/product/0321545885/ref=olp_product_details?ie=UTF8&me=
+
+Starting Out with C++: From Control Structures through Objects (6th Edition)
+Tony Gaddis’s accessible, step-by-step presentation helps beginning students understand the important details necessary to become skilled programmers at an introductory level. Gaddis motivates the study of both programming skills and the C++ programming language by presenting all the detail...
+amazon.com
+Jeremy Donson
+12/8, 1:03pm
+Jeremy Donson
+cool
+just do GNU C
+https://www.gnu.org/software/gnu-c-manual/
+Carl Sylvester
+12/8, 2:01pm
+Carl Sylvester
+OK, I went to PDF version on that. Looks good at first couple of pages, as well as three others I have found. Will put on disc for convenience and usability. (put READER on LINUX, no problem, no file to lose by accident)
+I am looking at around 20 credit hours here, no, make that 24, that class I had only covered the first half of that book,lol.
+LINUX w/command line
+C (2)
+C++ 101
+C++ 201
+..and the ever-popular "other"
+Jeremy Donson
+12/8, 2:10pm
+Jeremy Donson
+It is key to recognize that use input is usually string data
+handling strings is key
+And trying to get gitbash running so you can use linnux commands in windows is nice and helpful.
+still need notepad++
+Jeremy Donson
+12/8, 2:12pm
+Jeremy Donson
+http://www.putty.org/
+www.putty.org
+putty.org
+Jeremy Donson
+12/8, 2:12pm
+Jeremy Donson
+That is for terminal app in windows.
+gitbash is prettier
+Carl Sylvester
+12/8, 2:16pm
+Carl Sylvester
+So I plug in LINUX and put it on there, then just plug in some extra memory if I need it. That way I am learning on LINUX. I am going to look for prices these days on externals. I might be able to come up with something.
+Jeremy Donson
+12/8, 2:17pm
+Jeremy Donson
+might just need to find smallest linux distributions
+https://help.ubuntu.com/community/In...tion/MinimalCD
+simply ask less of the hardware by running thin versions of linux
+Windows+Windows Apps:  ~2GB RAM
+VBox + Linux: ~2GB RAM
+therefore, 4GB is aplenty
+smallest centos and ubuntu distributions are nice for learning and not overtaxing hardware
+will need to download and install chrome browser
+etc
+(in windows)]
+k, I need to code for the rest of the day - simply toss questions in here and I will catch up when I have the bandwidth
+Carl Sylvester
+12/8, 2:37pm
+Carl Sylvester
+I'm going to get to doing things with this, but yeah, I've been looking around on here all day and need a shower and a break and some food. I'll work on my drive cleanup and the other stuff in the order it needs to be done, you know. Not much point in discussing it further now. Sometimes you just have to turn the thing on.
+Wednesday
+Jeremy Donson
+12/9, 5:49am
+Jeremy Donson
+1.  gitbash => easiest
+2.  virtualbox =>  two steps to run linux inside windows
+3.  cygwin => emulates FULL linux on windows
+4.  thumb drive with linux => pure linux
+Sunday
+Jeremy Donson
+12/13, 9:41am
+Jeremy Donson
+https://linuxacademy.com/linux
+
+Linux Certification Training
+© 2015 Linux Academy. All rights reserved.Pinehead® and the Linux Academy logo® is the registered trademark of Linux Academy in the U.S. and other countries.Linux® is the registered trademark of Linus Torvalds in the U.S. and other countries.
+linuxacademy.com
+Jeremy Donson
+12/13, 9:41am
+Jeremy Donson
+That seems to be the most cutting edge and equitable way to get current.
+Jeremy Donson
+12/13, 9:42am
+Jeremy Donson
+https://training.linuxfoundation.org/certification
+
+Linux Certification and Certification Courses - Linux Foundation Training
+100% online certification exams available anytime, anywhere. Test on CentOS, openSUSE, or Ubuntu. Performance-based at the command line.
+training.linuxfoundation.org
+Jeremy Donson
+12/13, 9:42am
+Jeremy Donson
+It is worth noting that these certifications draw from training.linuxfoundation.org curriculum.
+And they are NOT flavor-distro specific....
+Could use them for OSX or Windows training curriculum guides.
+some linux flavors:
+ - ubuntu
+ - debian
+ - redhat
+ - suse
+ - centos
+ - darwin
+minix
+(very small linux)
+I think I have an idea for a bartering service that would be of real value in an effort to train admind and engineers.
+admins
+like a VERY great idea
+you are welcome to play devil's advo
+lemme know when you wanna hear about it
+Jeremy Donson
+12/13, 9:45am
+Jeremy Donson
+Draws from this OLD and proven concept:
+https://en.wikipedia.org/wiki/Guild
+
+Guild - Wikipedia, the free encyclopedia
+A guild /ɡɪld/ is an association of artisans or merchants who control the practice of their craft in a particular town. The earliest types of guild were formed as confraternities of tradesmen. They were organized in a manner something between a professional association, trade union, a cartel, and a…
+en.wikipedia.org
+Jeremy Donson
+12/13, 9:45am
+Jeremy Donson
+hope you are having a great wknd
+thx for being sounding board for me about this stuff - helpful <nods>
+and check out my ascii graphical notation for data models:
+Bartering has many roles.
+Through each
+role
+we can grant many sets of
+privileges on
+objects.
+To make that more succinct:
+barter --< roles --< privs --< objects
+x --< y = "x has many of y"
+^ the beginning of a "data model".
+Most data modeling is about
+1. one:many
+2. class : types
+VERY powerful
+all about logical data structure
+All good relational database start this way.
+You are simply too smart not to grab this stuff by the horns and apply it to all kinds of unstructured data out there.
+Jeremy Donson
+12/13, 9:51am
+Jeremy Donson
+I use this tool to make data models for mysql database, which is a core expertise of mine:
+https://www.mysql.com/products/workbench/
+
+MySQL :: MySQL Workbench
+MySQL Workbench is a unified visual tool for database architects, developers, and DBAs. MySQL Workbench provides data modeling, SQL development, and comprehensive administration tools for server configuration, user administration, backup, and much more. MySQL Workbench is available on Windows, Linux…
+mysql.com
+Jeremy Donson
+12/13, 9:51am
+Jeremy Donson
+If I make pictures in that tool, they can be used to generate structural database code.
+This brings us quickly to the badassest part of software for me:  CASE
+Using software to make software...
+https://en.wikipedia.org/wiki/Computer-aided_software_engineering
+You can download mysql for windows and use that Workbench app to auto-reverse-engineer data models from SQL-server databases.
+Other case tools are more database platform agnostic, where we can export code to target ANY of like 30 known databases.
+This is where the real work is, buddy.
+right there, foreseeably
+most 'good' software
+is about structuring data
+Carl Sylvester
+12/13, 9:55am
+Carl Sylvester
+I just saw that and checked it out within the last half hour or so. NO MONEY for that, despite it looking pretty good.
+Spent a few hours the other day sorting through my drives, transferring files, etc. Found CET185 (LINUX) PP presentations copied from thumb drive at time of back to school. Has basic explanations, stuff I can search, etc.
+I know what a guild is, from all things, reading fiction!
+Symbols as functions is something I understand (operators?), just have to include in materials I am slowly but surly finding to use on hard copy as references.
+ASCII is not completely foreign to me, in that I understand it is the set of numerical values assigned to characters which enables a compiler to write machine language from OUR language.
+Jeremy Donson
+12/13, 9:55am
+Jeremy Donson
+I am getting that serving and can share what I have access to.
+service ^
+$29 per month is affordable
+I want to learn more about what they offer to teams and at what cost.
+well,
+guilds are near and dear to my engineering heart and educator soul
+Carl Sylvester
+12/13, 9:56am
+Carl Sylvester
+Not for me. I am lucky to keep my phone and internet.
+Jeremy Donson
+12/13, 9:56am
+Jeremy Donson
+no worries
+if you want to limit your time investment
+and keep it stedy for a week ot two, this will take shape quickly.
+no $ nec
+yes, really
+the ONLY cost is the learning curve
+Your $ and time constraints are part of the bartering formula.
+And this would need to work for you first, then perhaps it could also work for us both.  For a remote-only acquaintance, I trust ya pretty good Carl.
+Paving the windows road into this goodness needs some thought and testing.  Datz allz.
+If ya want revenue-generating skills, then we might think about a tech role that appeals to you?
+The demand is SO high and the supply of smart and properly guided talent is LOW.
+k, shutting up now
+give ll that some thought and express all doubts, concerns, outrage, etc
+all ^
+if you see some possible synergy between barter and guilds in tech training, speak up!
+yes, 
+ --<
+ is a TYPE of operator that I would call a "contextual operator"
+one --< many
+class --E type
+Shorthands like these are worth a billion dollars.
+web site --< pages
+                        | - url
+Any industry ....
+any
+I have a rather short and POTENT list of ascii contextual operators that make this logical quest a relative piece of cake
+so far I have shown 3:
+1.  --<
+2.  --E
+3.  xyz
+       | -
+examples abound
+They also merge well with a shorthand steadily growing in popularity with ALL devs:
+YAML
+http://docs.ansible.com/ansible/playbooks_intro.html
+I plan to enhance the YAML parser to inform it about how to handle/interpret these other contextual operators.
+Meanwhile, learning to use them like online vernacular and see how they apply in various industries is *crucial*.
+Jeremy Donson
+12/13, 10:10am
+Jeremy Donson
+Also, while I talk a lot about my own preferred methods of diagramming, I should also make mention of UML.
+That is a diagrammatic notation for modeling and testing and architecting classes and objects.  It is very advance.
+We can learn from that diagrammatic notation as well as available examples.
+Jeremy Donson
+12/13, 10:11am
+Jeremy Donson
+UML has opportunity for ascii contextual operators that are about software on the fly....
+x depends upon y
+etc
+This (or some weird derivation) is the alphabet of the future, Sir.
+Carl Sylvester
+12/13, 10:12am
+Carl Sylvester
+My main problem is getting started. I like to think out contingencies (for lack of a better term) and be well prepared before I start a project. With this it involves finding and organizing reference materials in advance so as not to be frustrated by delays. At least I have had the course  before, so I have a general idea what to look for. I did find some promising "C" tutorial sites, and linux stuff is EASY to find. Once I decide I am ready I should get pretty absorbed in it. After all it IS interesting.
+BASH command index in back of a book I have on FEDORA. I doubt the basic commands have changed. Just thought to look there, off top of head. I'm kinda screwy like that, shit just pops up from somewhere in there!
+Jeremy Donson
+12/13, 10:13am
+Jeremy Donson
+yes, bash is your ticket
+that is linux shell for all flavors
+(default)
+bash for shell scripts
+vi for text editor
+then you are already 25% of a SERIOUS linux sys admin
+glad that you find it interesting
+Carl Sylvester
+12/13, 10:14am
+Carl Sylvester
+You give me lots of info that is about useless to me at this point, but this will stay here for a while!
+Jeremy Donson
+12/13, 10:14am
+Jeremy Donson
+lol
+go back and skim my points
+and watch systems ad data clarify in the next few days
+and ^
+- systems hardware, operating systems, basic admin training
+- data modeling, testing, SQL database basics
+From there you can go into any language.
+In any industry.
+Or any layer of of oss technology.
+Finding an "expertise" seems to derive from:
+ - tools
+ - roles
+ - industries
+Networked Dqata Systems = FIRM foundation without restriction
+Data ^
+could run a lean startup
+could fix an old behemoth wasteful company with too much $
+could help a school or non-profit immeasurably, from anywhere
+Carl Sylvester
+12/13, 10:19am
+Carl Sylvester
+BTW: Went looking for another flash drive, first thing came up was TA DA! 32 G. I thought that was funny after investigating file systems. On the way, will format to FAT32 for exclusive use with UBUNTU.
+Jeremy Donson
+12/13, 10:20am
+Jeremy Donson
+the truth is that 2gb and 4gb thumb drives are practically free these days
+all it requires is a platform that CAN support bootable usb bus
+Jeremy Donson
+12/13, 10:21am
+Jeremy Donson
+https://en.wikipedia.org/wiki/Bus_(computing)
+Bus (computing) - Wikipedia, the free encyclopedia
+In computer architecture, a bus (related to the Latin "omnibus", meaning "for all") is a communication system that transfers data between components inside a computer, or between computers. This expression covers all related hardware components (wire, optical fiber, etc.) and software, including com…
+en.wikipedia.org
+Jeremy Donson
+12/13, 10:21am
+Jeremy Donson
+^ very serious hardware subsystems word!!
+systems --< components
+they stay connected internally through buses
+(and externally through cables)
+word?
+motherboard is a bus maze
+most people avoid the hardware and go for ideal world software stuff
+imho, hardware knowledge keeps software knowledge realistic by design
+most devs ^
+most devs refer to an 'ideal word'
+where executions are instantaneous
+and where data is immortal
+Carl Sylvester
+12/13, 10:24am
+Carl Sylvester
+I was surprised the 32 was ten bucks. I'l be able to figure out how to make the OS find it. It has to be in basic stuff.
+Buss: a central connecting and distribution point. Used in panel boxes, sound mixers, etc. Yeah I can get a good visualization on that one.
+Jeremy Donson
+12/13, 10:24am
+Jeremy Donson
+I know what they mean, but I have never seen that world.
+boot stages are key
+post
+boot disk hardware drivers
+boot seek
+boot
+etc
+Carl Sylvester
+12/13, 10:27am
+Carl Sylvester
+I have the schematic that came with my mixer. VERY clear representation. Not very large, very simple. Printout of INTEL processor would probably wallpaper a warehouse.
+See, I have a GENERAL idea.
+Jeremy Donson
+12/13, 10:28am
+Jeremy Donson
+https://en.wikipedia.org/wiki/List_of_Intel_graphics_processing_units
+
+List of Intel graphics processing units - Wikipedia, the free encyclopedia
+This page contains information about Intel's GPUs and motherboard graphics chipsets in table form. In 1982 Intel licensed the NEC µPD7220 and announced it as the Intel 82720 Graphics Display Controller.[1]
+en.wikipedia.org
+Jeremy Donson
+12/13, 10:28am
+Jeremy Donson
+start with disk output (reads) and input (write)
+data signals across components are easy to split into reads and writes
+Carl Sylvester
+12/13, 10:29am
+Carl Sylvester
+cin cout
+Jeremy Donson
+12/13, 10:29am
+Jeremy Donson
+this is also a database engineering sensibility
+thinking about when we are reading and when we are writing is not a dev's first thought
+they are more concerned with user interactions, and that is correct
+mysql has a c api
+http://dev.mysql.com/doc/refman/5.6/en/c-api-function-overview.html
+So does postgres:
+http://etutorials.org/SQL/Postgresql/Part+II+Programming+with+PostgreSQL/Chapter+8.+The+PostgreSQL+C+API+-+libpq/
+every sql database engine has api's for EVERY language
+and every one comes with command line client that is standalone
+please download:
+ - mysql workbench for windows
+ - MAMP for windows
+ - gitbash
+ask me what each does and how to set this up as easy as possible
+Thanks for bearing with my trains of thought.
+I will get this more organized in a day or two!
+Carl Sylvester
+12/13, 10:39am
+Carl Sylvester
+Can I put those in my external usb disc drive on download and then run them on windows, or do I have to put them on the main drive in the machine? I ask this because I am thinking about having to re load all of them and redo any customizations if I have a problem with my machine, like that svchost crap that fucked me about four months ago. Had to do a hard disc reload, lost everything.
+Jeremy Donson
+12/13, 11:22am
+Jeremy Donson
+Those can execute from any path that you have user access to...
+They will prompt for admin auth during install.
+If I were you, I would think about doing:
+git init
+git add .
+git commit -m "Now we have saved a git repo snapshot of ALL things under this drive."
+I do that in the linux /etc/ directory to retain ALL versions of ALL configs over time.
+Then worst case, we can boot windows and mess around on that thumb drive.
+And use git to restore earlier versions.
+Jeremy Donson
+12/13, 11:30am
+Jeremy Donson
+I think gitbash is where you ought to start.
+And with windows being preemotive about preparing for reload is about survival, as you have learned.  frown emoticon
+With missing comma:
+And with windows, being preemotive about preparing for reload is about survival, as you have learned.  frown emoticon
+preemptive
+NOTE:  separate system from executables from files
+NOTE:  Separate backup of read-only files and volumes from read-write data.
+And we ought to discus the steps of recovery from nada, to ensure that your sense of precaution is complete.
+?
+Some time soon we ought to skim the nginx source code,
+which is a web server.
+PRODUCTION Web servers and databases are written in C.
+Jeremy Donson
+12/13, 11:39am
+Jeremy Donson
+http://stackoverflow.com/questions/3074399/which-has-a-better-code-base-to-learn-from-nginx-or-lighttpd
+Here is yet another oss server which performs very well.
+http://panoptic.com/wiki/aolserver/AOLserver_Wiki
+ie, web page server
+touring code for linux kernel, linux OS, git, web server, database server = OSS genius
+http://stackoverflow.com/questions/29576040/how-to-compile-the-linux-kernel-to-be-as-small-as-possible
+SIX LAYERS TO TECH:
+1.  hardware
+2.  operating systems
+3.  network engineering
+4.  data
+5.  dev code processes
+6.  user interface design
+You seem fully capable to start from the ground up.
+Note that bash 3.2 is standard everywhere, yet bash4 has MANY nice tools that compete directly with dev languages:
+We code for bash3.2 when we want it to run everywhere.
+http://tldp.org/LDP/abs/html/bashver4.html
+Jeremy Donson
+12/13, 12:19pm
+Jeremy Donson
+Basically most devs know NOTHING about systems, data or networking and just know how to write in the language i which they were trained.
+FROM THIS ALONE, I have been paid well to support dev teams and help them stay focused on process and ui issues to keep biz happy.
+Meanwhile I would focus on hardware, systems and data engineering to keep them effective and free of those burdens (in which they were NOT trained).
+Ok, last brain dump:
+SQL = STRUCTURED QUERY LAGUAGE = DATABASE SCRIPTING LANGUAGE
+SQL = DCL + DDL + DML
+DCL = DATA CONTROL LANGUAGE
+like > CREATE USER 'frank' ...
+DDL = DATA DEFINITION LANGUAGE
+like > CREATE TABLE data_bucket ( ...
+DML = DATA MANIPULATION LANGUAGE
+like > SELECT id from data_bucket;
+^ this works for ALL database engines
+and all languages DEPEND upon external data stores, either in local files or in databases
+Some SQL-compliant database platforms:
+mysql
+db2
+postgres
+oracle
+sybase
+sqlserver
+etc
+whole server-side platform is referred to as dbms
+each dbms can support n databases, each of which could support one or many apps
+dbms --< databases >--< apps
+this time I use a 'many-to-many' operator between databases and apps...
+so, to reiterate:
+--<
+>--
+>-<
+--E
+3--
+  |-
+and I use the follow to say "opposite":  <|>
+--E <|> 3--
+>-- <|> --<
+to be a database architect, all we need to target is what is called 3rd Normal Form:
+1.  Each table has primary key.
+2.  Tables are related (child => parent) by way of foreign keys,
+3.  Many-to-many relationships are to be transformed
+from:
+>-<
+to:
+>-[concatenated-table]-<
+This retains all of the the many-to-many data element associations.
+Simple database examples can make this this CRYSTAL clear.
+Then we have the beginning of a data structure to generate to mysql code...., load into mysql database
+Add sample data....  and start testing.
+And any sql database works this way, with some syntactical variation across vendor database management systems (dbms) platforms.
+three basic data types:  numeric, string/char, temporal (time/date)
+Jeremy Donson
+12/13, 3:06pm
+Jeremy Donson
+just learning to configure/build/test binaries from known good source using gcc compiler is plenty
+the gnu tools will be our tool belt:
+https://en.wikipedia.org/wiki/GNU_Project
+my expertise is in systems and databases, so primarily I use bash and mysql CLI client
+I know php, and I am now learning python.
+choosing linux flavors and distros is endless fun
+Today
+Jeremy Donson
+5:49am
+Jeremy Donson
+We ought to use my urbanspectra.com domain as a resource for our collaborations.
+We can also have private projects at github.com
+ - goals
+ - methods
+ - progress
+ - challenges
+ - next steps
+Jeremy Donson
+5:59am
+Jeremy Donson
+Please confirm proposed goals?
+ - Provide Windows users with many learning paths (and tool sets) to penetrate open source wizardry, hands-on.
+ - Review terms of system admin, developer and engineer certification training across operating systems.
+ - Master terms of database admin, developer and engineer certification training across database (and NoSQL) platforms.
+ - Master analytical diagramming for systems, networks, data, processes, as well as workflows.
+ - Deploy systems, data and processes to linux of all kinds, locally and remotely, including virtualbox, aws and docker.
+Tools:
+ - bash
+ - vi
+ - git
+Jeremy Donson
+5:59am
+Jeremy Donson
+then you can learn a language and go bananas with the good stuff
+note that aws provides "free tier" tiny hosts to play with
+managing dev stacks = dev ops
+Jeremy Donson
+6:02am
+Jeremy Donson
+First linux to learn = Ubuntu
+First web stack to learn = LAMP stack
+Linux
+Apache
+MySQL
+PHP
+You can run all that on Windows (emulated) using MAMP for windows.
+Just setting up LAMP stack in three places without disparity  (vbox, MAMP, AWS) where we hope to deploy some code is EXCELLENT
+Jeremy Donson
+6:09am
+Jeremy Donson
+You can look at this as three parallel mini-courses:
+1.  hardware and networked systems
+2.  relational database expertise
+3.  managing dev stacks across providers + git/github
+-
+Then you can dev in any language you like with suave awareness of how the rest of the word does it.
+You should note that by being sounding board, your help is already indispensable.
+One way that you can help out could be to look at online training sites and review their training course syllabus.  Instead of taking a course, I have started to just read the syllabus, and this is like reading table of contents instead of reading entire college level text book.
+Scope and sequence of
+topics is a tricky game!
+Jeremy Donson
+6:10am
+Jeremy Donson
+I will strive to provide convergent experiences, and you can let me know if that is in fact what you are piecing together from my blabber.  smile emoticon
+Jeremy Donson
+6:15am
+Jeremy Donson
+Successful open source training depends upon smattering of...
+ ** increasingly convergent tools at every tech layer**.
+This makes now a GREAT time to jump in and come up to speed, which is no small feat.
+I am focusing on three industries to target $:
+ - high-speed trading / financial services
+ - publishing/media/entertainment
+ - startups
+--
+And remember that if we can engage women and minorities in hands-on remote tech training, then that is fucking awesome.
+Also a reminder to talk about bartering service idea...  it might be a dev project worth our time?
+Jeremy Donson
+6:25am
+Jeremy Donson
+http://www.urbanspectra.com
+is my domain for my own projects.
+Jeremy Donson
+6:29am
+Jeremy Donson
+So, yes, gather all installers externally.
+Keep bookmark of all installer pages.
+Ensure that Windows is properly backed up and make sure that we can restore ALL.
+Getting you running with git, bash, virtualbox and MAMP is all very reasonable.
+Then we can dive into mysql and linux a bit.
+All stacks need an OS and a multi-user data store.
+Also, I use chrome browser and safari browser.
+Hope you had a good wknd.
+I am expecting winter to slap us hard any day now.
+MySQL :: Setting Up the world Database
+For help with using MySQL, please visit either the MySQL Forums or MySQL Mailing Lists, where you can discuss your issues with other MySQL users.
+dev.mysql.com
+Jeremy Donson
+6:41am
+Jeremy Donson
+https://github.com/urbanspectra-nyc/oss_foundations
+Jeremy Donson
+6:42am
+Jeremy Donson
+I made a github.com project for us so we can use project wiki to start to capture some of my blabber in organized notes.
+If you have a github.com login (free), then I can add you as someone who can write to that project.
+This assumes that you already have gitbash installed locally and can play with linuxy stuff on windows.
+Jeremy Donson
+6:42am
+Jeremy Donson
+https://github.com/urbanspectra-nyc/oss_foundations
+
+urbanspectra-nyc/oss_foundations
+oss_foundations - This remote training project starts with a markdown wiki and some issues.
+github.com
+
+Write a reply...
