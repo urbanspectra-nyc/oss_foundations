@@ -1,8 +1,5 @@
 # oss_foundations
-GOALS => METHODS
-PROGRESS
-CHALLENGES
-NEXT STEPS
+GOALS => METHODS => PROGRESS => CHALLENGES => NEXT STEPS
 
 PROPOSED GOALS:
  - Provide Windows users with many learning paths (and tool sets) to penetrate open source wizardry, hands-on.
